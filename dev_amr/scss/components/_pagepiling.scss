@@ -1,0 +1,16 @@
+// Pagepiling
+#pp-nav span, .pp-slidesNav span{
+    border: none;
+    background: rgb(117, 117, 117);
+}
+#pp-nav li .active span, .pp-slidesNav .active span{
+    background: white;
+}
+
+
+body #magicMouseCursor{
+    &:hover{
+        width: 40px;
+        height: 40px;
+    }
+}
