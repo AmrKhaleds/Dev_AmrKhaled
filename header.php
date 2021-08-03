@@ -34,7 +34,7 @@
                 </a>
                 <a class="navbar-brand secondary-links" href="#">
                     <!-- <img src="" alt="" width="30" height="24"> -->
-                    Info@DevAmr.com
+                    Info@DevAmr.tk
                 </a>
             </div>
         </nav>
