@@ -481,13 +481,8 @@ footer .footer-main .social-links a i:hover {
   }
 }
 
-#pp-nav span, .pp-slidesNav span {
-  border: none;
-  background: #757575;
-}
-
-#pp-nav li .active span, .pp-slidesNav .active span {
-  background: white;
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+  background-color: #ffffff;
 }
 
 body #magicMouseCursor:hover {
