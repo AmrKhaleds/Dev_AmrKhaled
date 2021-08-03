@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/commandcmd/public_html/DevAmr.com
-    - /bin/cp * $DEPLOYPATH
