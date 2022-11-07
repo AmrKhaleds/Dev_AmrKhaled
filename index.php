@@ -3,8 +3,7 @@
 <!-- Content Start -->
 
 <div id="content">
-            <div id="particles-js" style="position: absolute;width: 100%;height: 100%;top: 0;left: 0;z-index: 1000;"></div>
-            <div class="section s1" style="background-color: #1B1B1B;">
+            <div class="section s1" style="background-color: rgb(27 27 27 / 0%);">
                 <div class="bannar-img"></div>
                 <div class="banner-info"><p><span style="color: white;">&lt;</span>Hello,<span class="my-name">I'm <br><span id="text-writer"></span></p></div>
                 <div class="scroll-down">
@@ -140,6 +139,7 @@
             <div class="section s8" style="background-color: #7c7c7c;">
                 <h1>The Theard Section</h1>
             </div> -->
+            <div id="particles-js" style="position: absolute;width: 100%;height: 100%;top: 0;left: 0;z-index:-1"></div>
             
         </div>
         <!-- Content End -->
