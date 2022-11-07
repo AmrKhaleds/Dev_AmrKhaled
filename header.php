@@ -16,7 +16,7 @@
         <meta property="og:image:secure_url" content="./img/Amrkhaled.png" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="400" />
-        <meta property="og:image:height" content="300" />
+        <meta property="og:image:height" content="440" />
         <meta property="og:image:alt" content="Amr Khaled Portfolio" />
 
         <link rel="shortcut icon" href="./img/faveicon.png" type="image/x-icon">
