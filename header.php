@@ -11,8 +11,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta property="og:title" content="DevAmr" />
-        <meta property="og:image" content="./img/Amrkhaled.jpg" />
-        <meta property="og:image:secure_url" content="./img/Amrkhaled.jpg" />
+        <meta name="description" content="Junior Back-End PHP Developer ...">
+        <meta property="og:image" content="./img/Amrkhaled.png" />
+        <meta property="og:image:secure_url" content="./img/Amrkhaled.png" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="400" />
         <meta property="og:image:height" content="300" />
