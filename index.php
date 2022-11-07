@@ -34,8 +34,8 @@
                         <div class="skill-icon">
                             <i class="bi bi-hdd-rack"></i>
                         </div>
-                        <h3>Server-Side</h3>
-                        <p>Working with client and community, we deliver masterplans that create vibrant new places and spaces, attract people, and encourage investment through.</p>
+                        <h3>Wordpress Implementation</h3>
+                        <p>Implement and host above 10+ clients' websites, and this allowed me to deal with VPS, dedicated servers and get experience with Linux hosting</p>
                     </div>
                 </div>
             </div>
