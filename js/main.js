@@ -24,7 +24,7 @@ $(document).ready(function() {
 });
 // Text Typing
 var typed = new Typed('#text-writer', {
-    strings: ['Amr Khaled', 'From Egypt', 'A Full-Stack Developer'],
+    strings: ['Amr Khaled', 'From Egypt', 'A Back-End PHP Developer'],
     typeSpeed: 70,
     backSpeed: 35,
     loop: true,

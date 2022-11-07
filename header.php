@@ -16,6 +16,10 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
         <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css">
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/tippy.js@6/animations/scale.css"
+            />
         <link rel="stylesheet" href="./css/style.css">
         <!-- Style End -->
         <title>Amr Khaled</title>
@@ -25,17 +29,25 @@
         <!-- nav Start -->
         <nav class="navbar navbar-light ">
             <div class="container-fluid nav-main">
-                <a class="navbar-brand secondary-links" href="#">
+                <a id="links" data-template="phone" class="navbar-brand secondary-links" href="tel:+201063599816">
                     <!-- <img src="" alt="" width="30" height="24"> -->
-                    (+20) 155 214 9985
+                    (+20) 106 359 9816
                 </a>        
                 <a class="navbar-brand logo" href="#">
                     <img src="./img/logo.png" alt="" width="30" height="24">
                 </a>
-                <a class="navbar-brand secondary-links" href="#">
+                <a id="links" data-template="gmail" class="navbar-brand secondary-links" href="mailto:Dev.AmrKhaled@DevAmr.xyz">
                     <!-- <img src="" alt="" width="30" height="24"> -->
-                    Info@DevAmr.tk
+                    Dev.AmrKhaled@DevAmr.xyz
                 </a>
             </div>
+            <div style="display: none;">
+                    <div id="gmail">
+                        <strong>Contact Me with Email</strong>
+                    </div>
+                    <div id="phone">
+                        <strong>Contact Me with Phone</strong>
+                    </div>
+                </div>
         </nav>
         <!-- nav End -->
