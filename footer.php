@@ -3,11 +3,11 @@
             <div class="container-fluid footer-main">
                 <div class="p-copyright"><p class="copyright">© AmrKhaled <?php echo date('Y'); ?>.</p></div>
                 <div class="social-links">
-                    <a id="links" data-template="facebook" href="https://www.facebook.com/3k.eissa/"><i class="bi bi-facebook"></i></a>
-                    <a id="links" data-template="twitter" href="https://twitter.com/3kEissa"><i class="bi bi-twitter"></i></a>
-                    <a id="links" data-template="mail" href="mailto:dev.amrkhaled@devamr.xyz"><i class="bi bi-envelope"></i></a>
-                    <a id="links" data-template="linkedin" href="https://www.linkedin.com/in/amr-khaled-468a151ab/"><i class="bi bi-linkedin"></i></a>
-                    <a id="links" data-template="gihub" href="https://github.com/amrkhaleds"><i class="bi bi-github"></i></a>
+                    <a id="links" data-template="facebook" href="https://www.facebook.com/3k.eissa/" target="_blank"><i class="bi bi-facebook"></i></a>
+                    <a id="links" data-template="twitter" href="https://twitter.com/3kEissa" target="_blank"><i class="bi bi-twitter"></i></a>
+                    <a id="links" data-template="mail" href="mailto:dev.amrkhaled@devamr.xyz" target="_blank"><i class="bi bi-envelope"></i></a>
+                    <a id="links" data-template="linkedin" href="https://www.linkedin.com/in/amr-khaled-468a151ab/" target="_blank"><i class="bi bi-linkedin"></i></a>
+                    <a id="links" data-template="gihub" href="https://github.com/amrkhaleds" target="_blank"><i class="bi bi-github"></i></a>
                     <a id="links" data-template="resume" href="./cv/AmrKhaled_Junior+Back+End+Developer_Resume.pdf" target="_blank"><i class="bi bi-file-earmark-person-fill"></i></a>
                 </div>
                 <div style="display: none;">

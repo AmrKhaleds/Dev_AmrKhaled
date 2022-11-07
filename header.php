@@ -10,6 +10,14 @@
         <!-- SEO End -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:title" content="DevAmr" />
+        <meta property="og:image" content="./img/Amrkhaled.jpg" />
+        <meta property="og:image:secure_url" content="./img/Amrkhaled.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="Amr Khaled Portfolio" />
+
         <link rel="shortcut icon" href="./img/faveicon.png" type="image/x-icon">
         <!-- Style Start -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css" integrity="sha512-4rPgyv5iG0PZw8E+oRdfN/Gq+yilzt9rQ8Yci2jJ15rAyBmF0HBE4wFjBkoB72cxBeg63uobaj1UcNt/scV93w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
