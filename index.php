@@ -21,7 +21,7 @@
                             <i class="bi bi-window-sidebar"></i>
                         </div>
                         <h3>Front-End</h3>
-                        <p>I Have 2+ of experience with HTML, CSS, bootstrap, sass, and js. and the ability to make front-end interactions with back‑end.</p>
+                        <p>I Have 2+ years of experience with HTML, CSS, bootstrap, sass, and js. and the ability to make front-end interactions with back‑end.</p>
                     </div>
                     <div class="skill BackEnd">
                         <div class="skill-icon">
