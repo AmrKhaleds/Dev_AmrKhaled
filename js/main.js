@@ -18,6 +18,7 @@ $(document).ready(function() {
         resize: false,
         scrollOverflow: true,
         css3: true,
+        lockAnchors:true,
 	});
 
 	//methods
